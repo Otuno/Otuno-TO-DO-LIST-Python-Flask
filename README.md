@@ -6,7 +6,7 @@ This is a lightweight and beginner-friendly **To-Do List App** built using **Pyt
 
 ## 📸 Screenshot
 
-![Screenshot](static/screenshot.png)
+![Screenshot](assets/screenshot.png)
 
 ---
 
